@@ -46,4 +46,4 @@ https://user-images.githubusercontent.com/85436268/195673114-b77ece3f-6124-4493-
 
 ##TR
 
-Buraya kadar takip edip destek verdiğiniz için teşekkürlerimi sunuyorum.
+Buraya kadar takip edip destek verdiğiniz için teşekkürlerimi sunuyorum
