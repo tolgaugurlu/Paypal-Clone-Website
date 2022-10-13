@@ -44,4 +44,6 @@ Bugün sizlerle Paypal Clone sayfası oluşturduk. Daha opsiyonel özellikleri b
 
 https://user-images.githubusercontent.com/85436268/195673114-b77ece3f-6124-4493-9012-76c0af0640ec.mov
 
+##TR
 
+Buraya kadar takip edip destek verdiğiniz için teşekkürlerimi sunuyorum.
