@@ -24,26 +24,26 @@ Biraz daha ileri seviye bir çalışma ile karşınızdayım.
 Bugün sizlerle Paypal Clone sayfası oluşturduk. Daha opsiyonel özellikleri barındıran bu yapıyı umuyorum beğenirsiniz.
 
 ****
-##DEMO VIDEO AND IMG
+## DEMO VIDEO AND IMG
 
-##MOBILE
+## MOBILE
 
 ![Ekran Resmi 2022-10-13 20 59 12](https://user-images.githubusercontent.com/85436268/195672947-07f6d415-ce66-415c-a587-6f9ee82c8dc8.png)
 
-##TABLETS
+## TABLETS
 
 ![Ekran Resmi 2022-10-13 20 59 43](https://user-images.githubusercontent.com/85436268/195673005-756ed74f-fbdd-4ed2-813c-22711e8b39b4.png)
 
-##DESKTOP
+## DESKTOP
 
 ![Ekran Resmi 2022-10-13 20 59 27](https://user-images.githubusercontent.com/85436268/195673073-3e5dce6d-fb0b-486f-990d-3f3b13d2f810.png)
 
 
-##DEMO VIDEO
+## DEMO VIDEO
 
 
 https://user-images.githubusercontent.com/85436268/195673114-b77ece3f-6124-4493-9012-76c0af0640ec.mov
 
-##TR
+## TR
 
 Buraya kadar takip edip destek verdiğiniz için teşekkürlerimi sunuyorum.
