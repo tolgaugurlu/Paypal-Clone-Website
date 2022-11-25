@@ -11,7 +11,7 @@
 
   Bu projede **Paypal** sitesinin kapsamlı bir şekilde clone(kopya) sayasını oluşturdum. Proje **HTML5**, **CSS3**, **JavaScript** kullanılarak oluşturulmuştur.
 
-  <a href="https://tolgaugurlu.github.io/Paypal-Clone-Website"><strong>➥ Live Demo</strong></a>
+  <a href="https://tolgaugurlu.github.io/Paypal-Clone-Website/Paypal-Clone-Website"><strong>➥ Live Demo</strong></a>
 
 </div>
 <hr>
