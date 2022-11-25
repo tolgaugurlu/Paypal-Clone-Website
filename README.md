@@ -1,11 +1,21 @@
-# Paypal Clone Website
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/Paypal-Clone-Website)
+  ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/Paypal-Clone-Website)
+  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/Paypal-Clone-Website?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
+  
+  <br>
 
-## LANGUAGE
+  <h2 align="center">Paypal Clone Project</h2>
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  Bu projede **Paypal** sitesinin kapsamlı bir şekilde clone(kopya) sayasını oluşturdum. Proje **HTML5**, **CSS3**, **JavaScript** kullanılarak oluşturulmuştur.
+
+  <a href="https://tolgaugurlu.github.io/Paypal-Clone-Website"><strong>➥ Live Demo</strong></a>
+
+</div>
+<hr>
+<h2 align="center">Demo Screeshots</h2>
 
 ## ABSTRACT & ÖZET
 
